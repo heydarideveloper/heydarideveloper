@@ -12,6 +12,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: m.heydari.developer@gmail.com
 - ❤️ I love opensource communities.
 
-[![mohammad Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heydarideveloper&layout=compact&theme=algolia)](https://bit.ly/2DRJEXJ)
+[![mohammad Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heydarideveloper&layout=compact&theme=algolia&count_private=true)](https://bit.ly/2DRJEXJ)
 
 Contribute to repos in here is totally welcome.
